@@ -1,0 +1,5 @@
+name: "sumiEngine"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "banana"
+- path: "game"
